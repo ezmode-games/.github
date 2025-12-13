@@ -40,4 +40,4 @@ We don't have time for drama. We're here to build tools for modders.
 
 ## Problems?
 
-Report issues to conduct@ezmode.games or via Discord DM to moderators.
+Report issues to da.fuk@ezmode.games or via Discord DM to moderators.
