@@ -4,23 +4,25 @@ Don't be a dick.
 
 ## Why This Matters
 
-In 1982, SMTP was designed with zero authentication. No passwords. No verification. Anyone could send email as anyone.
+In 1971, email started on ARPANET. No passwords. No verification. Anyone could send anything to anyone. It was a closed network of researchers and military - maybe 2,600 users total. People were not dicks, so it worked.
 
-This worked for years. Engineers trusted each other. The network was small. People were not dicks.
+On May 3, 1978, Gary Thuerk at DEC sent the first spam - an ad for their new computers to 393 West Coast ARPANET users. It generated $13 million in sales. The community was furious. A military officer called it "a flagrant violation." Thuerk promised not to do it again.
 
-Then in 1978, Gary Thuerk sent the first spam - an ad for DEC computers to 400 ARPANET users. People complained, but it was an isolated incident. The community self-corrected.
+In 1982, SMTP was formalized (RFC 821). Still no authentication. Still trusted everyone. The network was growing but the culture held.
 
-For over a decade, good faith held. SMTP remained open. Email worked.
+Then the web happened. Money happened.
 
-Then the web happened. Money happened. In 1994, lawyers Canter and Siegel blasted immigration services ads to thousands of newsgroups. They made money. Others noticed.
+On April 12, 1994, immigration lawyers Laurence Canter and Martha Siegel blasted "Green Card Lottery" ads to 5,500 Usenet groups in 90 minutes using a Perl script. Their ISP's servers crashed from complaint emails. They made $100,000 and wrote a book about it. Canter was eventually disbarred.
 
-By 2000, spam was 8% of email. By 2010, it was 90%.
+But others noticed it worked.
 
-Because a few people decided to be dicks, we now have SPF, DKIM, DMARC, reputation scoring, spam filters, CAPTCHAs, rate limiting, and email deliverability as an entire industry. Billions of dollars spent. Billions of hours wasted. All because good faith failed.
+By 2000, spam was 8% of email. By 2010, over 90%.
+
+Because people decided to be dicks, we now have SPF, DKIM, DMARC, reputation scoring, spam filters, CAPTCHAs, rate limiting, and email deliverability as an entire industry. Billions of dollars spent. Billions of hours wasted. All because good faith failed.
 
 ## The Point
 
-Open source communities work like early SMTP. We trust each other. We help each other. We assume good intent.
+Open source communities work like early ARPANET. We trust each other. We help each other. We assume good intent.
 
 This only works if you're not a dick.
 
