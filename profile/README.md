@@ -10,6 +10,10 @@ When your game crashes, CTD captures the context - stack trace, load order, game
 
 Open source. Self-hostable. Free.
 
+**[ferritest](https://github.com/ezmode-games/ferritest)**
+
+Multi-threaded memory stress testing tool written in Rust. 8 test patterns, real-time progress, zero unsafe code.
+
 ## Links
 
 - [ctd.ezmode.games](https://ctd.ezmode.games) - Crash reporter
